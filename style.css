@@ -47,13 +47,13 @@ body {
     display: grid;
     place-content: center;
     border-radius: 20%;
-    box-shadow: 2px 2px 5px #babecc,
+    box-shadow: 2px 2px 5px #c93d1a,
                 -5px -5px 10px #ffffff73;
 }
 
 .button:hover{
-    color: #3498db;
-    background-color: coral;   
+    color: #20e68a;
+    background-color: rgb(145, 101, 85);   
 }
 
 .container .buttons .zero {
